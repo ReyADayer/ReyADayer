@@ -10,6 +10,8 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReyADayer" />
 </a>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ReyADayer)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **ReyADayer/ReyADayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
