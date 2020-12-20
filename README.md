@@ -3,7 +3,7 @@
 - [Twitter](https://twitter.com/ReyADayer)
 - [Qiita](https://qiita.com/ReyADayer)
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=ReyADayer&count_private=true&show_icons=true&include_all_commits=true)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=ReyADayer&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReyADayer&layout=compact&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
 
